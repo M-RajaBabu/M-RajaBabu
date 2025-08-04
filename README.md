@@ -32,7 +32,7 @@ Email Me 👉 ✉️ **rajababumeena0010@gmail.com** For Collaboration/Project o
 
 ### **Master's Degree**
 - **🎯 Degree:** Master of Technology (M.Tech)
-- **🏛️ Institution:** [Your University Name]
+- **🏛️ Institution:** Indian Institute of Technology (IIT) Jammu
 - **📅 Duration:** 2021 - 2023
 - **🎨 Specialization:** Data Science
 
@@ -42,18 +42,7 @@ Email Me 👉 ✉️ **rajababumeena0010@gmail.com** For Collaboration/Project o
 - **📅 Duration:** 2015 - 2019
 - **🎨 Specialization:** Computer Science & Engineering
 
-### **Key Academic Achievements**
-- 🏆 **Dean's List** - Consistently maintained high academic performance
-- 📚 **Relevant Coursework:** Data Structures, Algorithms, Database Management, Web Development, Cloud Computing, Machine Learning, Data Analysis
-- 🎯 **Final Year Project:** [Your Project Title] - [Brief description of your major project]
-- 📖 **Certifications:** AWS Certified Cloud Practitioner, Python Programming
 
-### **Academic Skills & Projects**
-- 💻 **Programming:** Advanced proficiency in C, C++, Java, Python, JavaScript
-- 🌐 **Web Technologies:** Full-stack development with React, Node.js, MongoDB
-- ☁️ **Cloud Computing:** AWS services, Docker, Kubernetes deployment
-- 🤖 **AI/ML:** Machine Learning algorithms, Data Analysis with Python
-- 📊 **Database:** MySQL, MongoDB, PostgreSQL design and management
 
 
 ## 🎯 **What I Do**
