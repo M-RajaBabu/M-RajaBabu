@@ -6,6 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=M-RajaBabu&style=flat-square&color=blue" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status" />
   <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-blue" alt="Open to Work" />
+  <img src="https://img.shields.io/badge/Profile%20Views-Updated%20Daily-blue?style=flat-square" alt="Profile Views" />
 </div>
 
 ---
@@ -131,7 +132,8 @@ Email Me 👉 ✉️ **rajababumeena0010@gmail.com** For Collaboration/Project o
 ---
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=M-RajaBabu&icon=0&color=0" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=M-RajaBabu&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Last%20Updated-Today-green?style=flat-square" alt="Last Updated" />
   <p>⭐ Star this repository if you found it helpful!</p>
 </div>
 
