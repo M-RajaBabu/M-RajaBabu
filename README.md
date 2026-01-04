@@ -16,7 +16,7 @@
 <p>Welcome to my page! </br> I'm Raja Babu Meena, a passionate developer from <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png" width="13"/> <b>India</b>. </p>
 
 # 💫 Hi 👋, I'm Raja Babu Meena
-**A passionate Cloud Engineer || Python Developer || Full Stack Developer from India**
+**A passionate Software Development Mentor  || Python Developer from India**
 
 Email Me 👉 ✉️ **rajababumeena0010@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
